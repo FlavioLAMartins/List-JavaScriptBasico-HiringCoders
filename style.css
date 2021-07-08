@@ -1,0 +1,39 @@
+body{
+    background-color: gray;
+    margin-left: 40%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 50px;
+}
+
+#add{
+    background-color: crimson;
+    font-size: 20px;
+    width: 50px;
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+}
+
+#add:hover{
+    background-color: rgb(158, 211, 158);
+    
+    cursor: pointer;
+    
+}
+
+#input{
+    background-color: rgb(226, 210, 210);
+    border-radius: 5px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-right: 5px;
+
+}
+
+.container{
+    display: flex;
+    
+}
+
+.to-dos { 
+    margin-top: 15px;
+
+}
